@@ -1,6 +1,6 @@
 body{
-    background:#13243d;
-    color: white;
+    background:#c8cbd1;
+    color:black;
     border-radius: 100px;
     
 }
@@ -28,7 +28,7 @@ body{
     
 
 .col{
-    background: url(./col-back.jpg);
+    background: url(./background9.jpg);
     background-size: cover;
     
     
@@ -48,9 +48,7 @@ body{
 #shop-section .shop-pic{
     border-radius: 90px;
 }
-#join-section .join-pic{
-    
-}
+
 #home-section #title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #13243d;
