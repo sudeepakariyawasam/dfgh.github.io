@@ -83,13 +83,14 @@ body{
 }
 
 #home-section-2{
-    background:url('./homebackground.jpg');
+    background:url('./home\ section\ 2.jpg');
     background-repeat:no-repeat;
     background-size:cover;
     background-attachment:fixed;
     min-height: 700px;
     color:whitesmoke;
     padding-right: 70px;
+    color: black;
     
     
 }
