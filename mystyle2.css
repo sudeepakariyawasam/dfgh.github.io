@@ -73,6 +73,18 @@ body{
 }
 
 #home-section{
+    background:url('./home\ 2.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    min-height: 700px;
+    color:whitesmoke;
+    padding-right: 70px;
+    
+    
+}
+
+#home-section-2{
     background:url('./home\ 1.png');
     background-repeat:no-repeat;
     background-size:cover;
