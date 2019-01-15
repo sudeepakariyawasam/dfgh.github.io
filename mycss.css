@@ -1,0 +1,17 @@
+.display-1{
+    font:black;
+        
+    }
+    #i1{
+        width: 100px;
+        height: 2000px;
+    }
+    h2{
+        color:white;
+    }
+    
+    #home-section{
+        background: url(./home\ 2.gif);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
