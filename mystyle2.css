@@ -31,8 +31,27 @@ body{
 #home-section #title{
     border-radius: 10px;
 }
-about-home-section-2{
+#about-home-section-2{
     background: url(./abouthome.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    min-height: 700px;
+    color:whitesmoke;
+    padding-right: 70px;
+    color: black;
+    
+}
+#about-home-section-3{
+    background: url(./hh.gif);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    min-height: 700px;
+    color:whitesmoke;
+    padding-right: 70px;
+    color: black;
+    
 }
 
 #shop-section .shop-pic{
