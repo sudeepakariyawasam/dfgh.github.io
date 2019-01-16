@@ -31,13 +31,14 @@ body{
 #home-section #title{
     border-radius: 10px;
 }
+about-home-section-2{
+    background: url(./abouthome.png);
+}
 
 #shop-section .shop-pic{
     border-radius: 90px;
 }
-#join-section .join-pic{
-    
-}
+
 #home-section #title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #13243d;
